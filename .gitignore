@@ -1,5 +1,6 @@
 .idea
 *.iml
+*.gct
 
 # Compiled class file
 *.class
