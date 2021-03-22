@@ -17,7 +17,7 @@ class ScreenResponseHandler implements Runnable {
 
     private final Socket clientSocket;
     private final int id;
-    private File file;
+    private final File file;
     private final Logger logger;
 
     public ScreenResponseHandler(Socket clientSocket, int id, File file) {
